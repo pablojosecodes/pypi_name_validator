@@ -1,0 +1,11 @@
+LICENSE
+setup.py
+zzkkz/__init__.py
+zzkkz/validator.py
+zzkkz.egg-info/PKG-INFO
+zzkkz.egg-info/SOURCES.txt
+zzkkz.egg-info/dependency_links.txt
+zzkkz.egg-info/entry_points.txt
+zzkkz.egg-info/not-zip-safe
+zzkkz.egg-info/requires.txt
+zzkkz.egg-info/top_level.txt
