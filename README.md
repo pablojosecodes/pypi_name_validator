@@ -1,4 +1,4 @@
-# pypi_name_validator: validate PyPi names
+# Validate PyPi names
 
 Super simple CLI to quickly validate your PyPi package names. Available here: https://pypi.org/project/validate-pypi-name/
 
