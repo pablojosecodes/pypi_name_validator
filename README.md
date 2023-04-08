@@ -4,10 +4,10 @@ Super simple CLI to quickly validate your PyPi package names. Available here: ht
 
 ## usage
 Assume you want to check if the package "package_name" is available.
-'''
+```
 pip3 install validate-pypi-name
 valid -n package_name
-'''
+```
 
 That's about it.
 
