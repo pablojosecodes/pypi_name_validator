@@ -7,7 +7,7 @@ long_description = 'Simple CLI to determine validity of pypi pakage name.'
   
 setup(
         name ='validate_pypi_name',
-        version ='1.0.0',
+        version ='1.0.3',
         author ='Pablo Hansen',
         author_email ='pablosfsanchz@gmail.com',
         url ='https://github.com/pablojosecodes/pypi_name_validator',

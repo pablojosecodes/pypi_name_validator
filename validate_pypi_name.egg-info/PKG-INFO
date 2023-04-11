@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: validate-pypi-name
-Version: 1.0.0
+Version: 1.0.3
 Summary: Simple CLI to determine validity of pypi pakage name.
 Home-page: https://github.com/pablojosecodes/pypi_name_validator
 Author: Pablo Hansen
